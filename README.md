@@ -1,6 +1,7 @@
 # Welcome to my GitHub!
 
 Hello! My name is Trace, and I am an upcoming Data Scientist. 
+
 I have a deep desire to use Data Science and Data Visualization in order to help casual sports fans gain a deeper understanding of Sports Statistics. I'd love to be able to make Statistics both accessible and understandable for anybody who has the desire to learn.
 
 My Interests:
