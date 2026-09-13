@@ -1,4 +1,5 @@
 # Welcome to my Portfolio Website!
+[Trace Winkler](images/IMG_3859)
 ## Personal Introduction
 Hello! My name is Trace, and I'm an upcoming Data Scientist with a passion for all things sports. 
 
@@ -24,7 +25,7 @@ An easy program that outputs an NFL offensive skill positions players statistics
 ### Contact Me Here!
 Please don't hesitate to connect with me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/). Also, feel free to reach out if you have any questions!
 
-### Some Other Important Links
+### Other Important Links
 - [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/)
 - [Projects Folder](https://github.com/trace-winkler/data-science-portfolio/tree/main/projects)
 - [My Blog](https://github.com/trace-winkler/data-science-portfolio/blob/main/blog/blog.md)
