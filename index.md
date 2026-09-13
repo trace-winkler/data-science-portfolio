@@ -28,4 +28,4 @@ Please don't hesitate to connect with me at my [LinkedIn](https://www.linkedin.c
 ### Other Important Links
 - [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/)
 - [Projects Folder](https://github.com/trace-winkler/data-science-portfolio/tree/main/projects)
-- [My Blog](https://github.com/trace-winkler/data-science-portfolio/blob/main/blog/blog.md)
+- [My Blog](https://github.com/trace-winkler/data-science-portfolio/tree/main/blog)
