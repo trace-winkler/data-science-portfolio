@@ -32,7 +32,7 @@ I recognize how many opportunities I've had up to this point, and I intend to ma
 Please don't hesitate to connect with me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/). Also, feel free to reach out if you have any questions!
 
 ### Check Out My Resume Here!
-My [Resume](resume/Resume, Trace Winkler.docx). Just a heads up, by clicking "Resume" it will download a word document to your device, so don't be confused or concerned!
+Take a look at my [Resume](resume/Resume, Trace Winkler.docx). I'm pretty proud of it, but if you have any formatting suggestions, feel free to let me know. Just a heads up, by clicking "Resume" it will download a word document to your device, so don't be confused or concerned!
 
 ### Other Important Links
 - [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/)
