@@ -1,5 +1,5 @@
 # Welcome to my Portfolio Website!
-[Trace Winkler](images/IMG_3859)
+
 ## Personal Introduction/About Me
 Hello! My name is Trace, and I'm an upcoming Data Scientist with a passion for all things sports. 
 
