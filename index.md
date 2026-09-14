@@ -16,9 +16,12 @@ An easy program that outputs an NFL offensive skill positions players statistics
 
 ## My Interests:
 - Sports Statistics
+- Basketball
 - Data Science
+- Video Games 
 - Real-Time Statistical Analysis
 - Sports Analytics
+- Football
 - Statistics
 - Factors of Human Performance
 
