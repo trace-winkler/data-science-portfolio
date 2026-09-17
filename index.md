@@ -40,4 +40,4 @@ Take a look at my [Resume](resume/Resume, Trace Winkler.docx). I'm pretty proud 
 ### Other Important Links
 - [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/)
 - [Projects Page](https://trace-winkler.github.io/project1/)
-- [My Blog](https://github.com/trace-winkler/data-science-portfolio/tree/main/blog)
+- [My Blog](https://trace-winkler.github.io/blog/)
