@@ -8,7 +8,7 @@ Through my education at UNC Charlotte, I've learned that I have a deep desire to
 I am currently a Student Manager for the UNCC Baseball Team, and I hope to be able to use the experience I gain in my career. I've truly enjoyed the experience, and I'm excited as the team ramps up for the start of the season in February! Go Niners!
 
 ## I'm currently working on...
-A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft. Check on my progress [here](https://github.com/trace-winkler/data-science-portfolio/tree/main/projects).
+A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft. Check on my progress [here](https://trace-winkler.github.io/project1/).
 
 ### And...
 
@@ -39,5 +39,5 @@ Take a look at my [Resume](resume/Resume, Trace Winkler.docx). I'm pretty proud 
 
 ### Other Important Links
 - [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/)
-- [Projects Folder](https://github.com/trace-winkler/data-science-portfolio/tree/main/projects)
+- [Projects Page](https://trace-winkler.github.io/project1/)
 - [My Blog](https://github.com/trace-winkler/data-science-portfolio/tree/main/blog)
