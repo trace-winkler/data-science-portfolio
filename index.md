@@ -8,12 +8,7 @@ Through my education at UNC Charlotte, I've learned that I have a deep desire to
 I am currently a Student Manager for the UNCC Baseball Team, and I hope to be able to use the experience I gain in my career. I've truly enjoyed the experience, and I'm excited as the team ramps up for the start of the season in February! Go Niners!
 
 ## I'm currently working on...
-A project that utilizes a multinomial logistic regression model that will allow me determine which position of need an NFL team needs the most, and if they're likley to use their first round draft pick in order to address that need.
-
-I’m excited to work on this project because it’s my introduction to coding with machine learning, which is a big part of data science. I decided to use multinomial logistic regression because it’s often used to predict the probability of a categorical outcome that has more than two categories. This stood out to me because it’s categorical, not numerical. Because NFL teams use positions, it's incredibly easy to categorize their rosters. The inclusion of categories makes the the logistic regression a no-brainer. 
-
-You can find more information about my project and its variables [here](https://trace-winkler.github.io/project-directory/), under "Data Science Project Two".
-
+Nothing currently for Data Science, but you can check on my projects [here](https://trace-winkler.github.io/dtscproject2/).
 ### And...
 An easy program that outputs an NFL offensive skill positions players statistics when their name or team is inputted. It's a simple program, but I collected the data myself, which was a lot of fun. This project is for my Computer Science class, so I don't know if I'll publish it until I'm done with it. Feel free to contact me if you want specifics! 
 
