@@ -8,7 +8,8 @@ Through my education at UNC Charlotte, I've learned that I have a deep desire to
 I am currently a Student Manager for the UNCC Baseball Team, and I hope to be able to use the experience I gain in my career. I've truly enjoyed the experience, and I'm excited as the team ramps up for the start of the season in February! Go Niners!
 
 ## I'm currently working on...
-Nothing currently for Data Science, but you can check on my projects [here](https://trace-winkler.github.io/project-directory/).
+Nothing currently for Data Science, but you can check on my projects [here](https://trace-winkler.github.io/project-directory/)
+
 ### And...
 An easy program that outputs an NFL offensive skill positions players statistics when their name or team is inputted. It's a simple program, but I collected the data myself, which was a lot of fun. This project is for my Computer Science class, so I don't know if I'll publish it until I'm done with it. Feel free to contact me if you want specifics! 
 
